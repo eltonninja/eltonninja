@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Cardoso-topdev&show_icons=true&theme=blueberry&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=eltonninja&show_icons=true&theme=blueberry&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cardoso-topdev&theme=blueberry&hide_border=true" />
 </p>
 
