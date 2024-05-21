@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://komarev.com/ghpvc/?username=Cardoso-topdev)   <br />
 <h2>Hey 👋, I'm <a href="https://elton-google-search.vercel.app/">Elton</a></h2>
 <p>I'm a software engineer who has more than 8 years of experience in web and mobile development </p>
@@ -9,7 +7,7 @@
 <ul>
 <li>🔭 I’m currently in love with <a href="https://bittensor.com">bittensor</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/eltonninja">Github</a>.</li>
 <li>💬 Ping me about <strong>React, Node, Python, Blockchain, and Cloud stuff</strong>.</li>
 </ul>
 
